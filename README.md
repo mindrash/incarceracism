@@ -1,4 +1,12 @@
 ![incarceracism](./docs/1440x400.png)
+[Etherscan](https://etherscan.com/address/0x5C3071CA988d75363A9CD800Bef9CBd2CeA005f4) | 
+[Polyscan](https://polygonscan.com/address/0x041C3Ffed16970ffbAD868e409d106576CDAE905) | 
+[Fantomscan](https://ftmscan.com/address/) | 
+[Twitter](https://twitter.com/mindrash) | 
+[Discord](https://discord.gg/B8F2R3qd) | 
+[metadevil.io](https://metadevil.io) | 
+[pebkac.fyi](https://pebkac.fyi) | 
+[itsmookie.com](https://itsmookie.com)
 
 # Incarceracism
 Incarceracism is a data influenced view of the 70% racial minorities incarceration percentage based on the [Prisoners in 2020 - Statistical Tables NCJ 302776](https://bjs.ojp.gov/library/publications/prisoners-2020-statistical-tables) report provided by the Bureau of Justice Statistics.
@@ -17,15 +25,6 @@ There are a total of 3,000 pieces in the series, but will be distributed across 
 | Tezos (XTZ) | #101 - 200 | 100 minted |
 | Polygon (MATIC) | #201 - 2,900 | 1000 allocated to creator, 1700 free mint |
 | Fantom (FTM) | #2,901 - 3,000 | 100 - 3 minted, 97 free mint |
-
-[Etherscan](https://etherscan.com/address/0x5C3071CA988d75363A9CD800Bef9CBd2CeA005f4) | 
-[Polyscan](https://polygonscan.com/address/0x041C3Ffed16970ffbAD868e409d106576CDAE905) | 
-[Fantomscan](https://ftmscan.com/address/) | 
-[Twitter](https://twitter.com/mindrash) | 
-[Discord](https://discord.gg/B8F2R3qd) | 
-[metadevil.io](https://metadevil.io) | 
-[pebkac.fyi](https://pebkac.fyi) | 
-[itsmookie.com](https://itsmookie.com)
 
 ## Examples
 ![incarceracism](./docs/examples.png)
@@ -103,11 +102,12 @@ This report is the 95th in a series that began in 1926. It describes demographic
 
 ---
 
-[Etherscan](https://etherscan.com/address/0x9c285E47c61B625952EF1F492160CefE12D69ffc) | 
-[Polyscan](https://polygonscan.com/address/0x501637fa5ea4c19086425de328f45309a973d669) | 
-[Fantomscan](https://ftmscan.com/address/0x16d2e7daf6636c49dd5dd85a09320d7b457f89c5) | 
+[Etherscan](https://etherscan.com/address/0x5C3071CA988d75363A9CD800Bef9CBd2CeA005f4) | 
+[Polyscan](https://polygonscan.com/address/0x041C3Ffed16970ffbAD868e409d106576CDAE905) | 
+[Fantomscan](https://ftmscan.com/address/) | 
 [Twitter](https://twitter.com/mindrash) | 
 [Discord](https://discord.gg/B8F2R3qd) | 
 [metadevil.io](https://metadevil.io) | 
-[pebkac.fyi](https://pebkac.fyi)
+[pebkac.fyi](https://pebkac.fyi) | 
+[itsmookie.com](https://itsmookie.com)
 
