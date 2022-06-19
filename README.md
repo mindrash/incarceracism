@@ -30,6 +30,9 @@ There are a total of 3,000 pieces in the series, but will be distributed across 
 ## Examples
 ![incarceracism](./docs/examples.png)
 
+Incareracism #1
+![incarceracism](./docs/1.png)
+
 ## Technologies
 - Python - art generation
 - Solidity - ERC-721
@@ -40,6 +43,38 @@ ETH Contract: 0x5C3071CA988d75363A9CD800Bef9CBd2CeA005f4<br/>
 Polygon Contract: 0x041C3Ffed16970ffbAD868e409d106576CDAE905<br/>
 Fantom Contract: <br/>
 Tezos Contract: br/>
+
+The art is deceptively simple or I guess I should just say - this art took a long time to process. The handcuff placement is the most expensive part of the process for each piece. The program wants to find a good available location to put the handcuff so that it looks correct. That process can take some time and it will eventually give up after 1,000 tries.
+
+The process took almost <strong>12.5 hours to create 3,000 pieces</strong>. Below is a log snippet:
+```
+root - INFO -  ___                                             _               
+|_ _|_ __   ___ __ _ _ __ ___ ___ _ __ __ _  ___(_)___ _ __ ___  
+ | || '_ \ / __/ _` | '__/ __/ _ \ '__/ _` |/ __| / __| '_ ` _ \ 
+ | || | | | (_| (_| | | | (_|  __/ | | (_| | (__| \__ \ | | | | |
+|___|_| |_|\___\__,_|_|  \___\___|_|  \__,_|\___|_|___/_| |_| |_|
+                                                                 
+
+root - INFO - ********************************************************************************
+root - INFO - Starting: 2022-06-18 20:25:25.307085
+root - INFO - Started creating: #0
+root - INFO - Finished creating: #1
+root - INFO - Started creating: #1
+root - INFO - Finished creating: #2
+root - INFO - Started creating: #2
+root - INFO - Finished creating: #3
+root - INFO - Started creating: #3
+...
+root - INFO - Finished creating: #2997
+root - INFO - Started creating: #2997
+root - INFO - Finished creating: #2998
+root - INFO - Started creating: #2998
+root - INFO - Finished creating: #2999
+root - INFO - Started creating: #2999
+root - INFO - Finished creating: #3000
+root - INFO - ********************************************************************************
+root - INFO - Finished: 2022-06-19 08:56:49.223790
+```
 
 ## Variations
 
