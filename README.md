@@ -8,8 +8,8 @@ In my life I have learned that words may not be as impactful as data. In this si
 
 There are a total of 3,000 pieces in the series, but will be distributed across multiple chains to spread the idea as far and wide as possible. Most of the series will be free mint except to provide a few examples to demonstrate. On Polygon 1,000 of them will be minted to demonstrate the series and to be held by the creator for undetermined future allocation. See below for how they are distributed.
 
-| chain | amount |
-|-------|--------|
+| chain | amount                                          |
+|-------|-------------------------------------------------|
 | Tezos (XTZ) | 100 minted |
 | Ethereum (ETH) | 100 - 3 minted, 97 free mint |
 | Polygon (MATIC) | 1000 allocated to creator, 1700 free mint |
@@ -22,7 +22,7 @@ There are a total of 3,000 pieces in the series, but will be distributed across 
 [Discord](https://discord.gg/B8F2R3qd) | 
 [metadevil.io](https://metadevil.io) | 
 [pebkac.fyi](https://pebkac.fyi) | 
-[itsmookie.com] (https://itsmookie.com)
+[itsmookie.com](https://itsmookie.com)
 
 ## Examples
 ![incarceracism](./docs/examples.png)
