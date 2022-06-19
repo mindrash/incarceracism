@@ -20,7 +20,7 @@ There are a total of 3,000 pieces in the series, but will be distributed across 
 
 [Etherscan](https://etherscan.com/address/0x5C3071CA988d75363A9CD800Bef9CBd2CeA005f4) | 
 [Polyscan](https://polygonscan.com/address/0x041C3Ffed16970ffbAD868e409d106576CDAE905) | 
-[Fantomscan](https://ftmscan.com/address/0x16d2e7daf6636c49dd5dd85a09320d7b457f89c5) | 
+[Fantomscan](https://ftmscan.com/address/) | 
 [Twitter](https://twitter.com/mindrash) | 
 [Discord](https://discord.gg/B8F2R3qd) | 
 [metadevil.io](https://metadevil.io) | 
@@ -38,8 +38,8 @@ There are a total of 3,000 pieces in the series, but will be distributed across 
 
 ETH Contract: 0x5C3071CA988d75363A9CD800Bef9CBd2CeA005f4<br/>
 Polygon Contract: 0x041C3Ffed16970ffbAD868e409d106576CDAE905<br/>
-Fantom Contract: 0x16d2e7daf6636c49dd5dd85a09320d7b457f89c5<br/>
-Tezos Contract: 0x16d2e7daf6636c49dd5dd85a09320d7b457f89c5<br/>
+Fantom Contract: <br/>
+Tezos Contract: br/>
 
 ## Variations
 
