@@ -11,12 +11,12 @@ In my life I have learned that words may not be as impactful as data. In this si
 
 There are a total of 3,000 pieces in the series, but will be distributed across multiple chains to spread the idea as far and wide as possible. Most of the series will be free mint except to provide a few examples to demonstrate. On Polygon 1,000 of them will be minted to demonstrate the series and to be held by the creator for undetermined future allocation. See below for how they are distributed.
 
-| chain | amount                                          |
-|-------|-------------------------------------------------|
-| Tezos (XTZ) | 100 minted |
-| Ethereum (ETH) | 100 - 3 minted, 97 free mint |
-| Polygon (MATIC) | 1000 allocated to creator, 1700 free mint |
-| Fantom (FTM) | 100 - 3 minted, 97 free mint |
+| chain | series     | amount                                          |
+|-------|------------|-----------------------------------|
+| Ethereum (ETH) | #1 - 100 | 100 - 3 minted, 97 free mint |
+| Tezos (XTZ) | #101 - 200 | 100 minted |
+| Polygon (MATIC) | #201 - 2,900 | 1000 allocated to creator, 1700 free mint |
+| Fantom (FTM) | #2,901 - 3,000 | 100 - 3 minted, 97 free mint |
 
 [Etherscan](https://etherscan.com/address/0x9c285E47c61B625952EF1F492160CefE12D69ffc) | 
 [Polyscan](https://polygonscan.com/address/0x501637fa5ea4c19086425de328f45309a973d669) | 
