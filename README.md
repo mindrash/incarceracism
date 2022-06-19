@@ -18,8 +18,8 @@ There are a total of 3,000 pieces in the series, but will be distributed across 
 | Polygon (MATIC) | #201 - 2,900 | 1000 allocated to creator, 1700 free mint |
 | Fantom (FTM) | #2,901 - 3,000 | 100 - 3 minted, 97 free mint |
 
-[Etherscan](https://etherscan.com/address/0x9c285E47c61B625952EF1F492160CefE12D69ffc) | 
-[Polyscan](https://polygonscan.com/address/0x501637fa5ea4c19086425de328f45309a973d669) | 
+[Etherscan](https://etherscan.com/address/0x5C3071CA988d75363A9CD800Bef9CBd2CeA005f4) | 
+[Polyscan](https://polygonscan.com/address/0x041C3Ffed16970ffbAD868e409d106576CDAE905) | 
 [Fantomscan](https://ftmscan.com/address/0x16d2e7daf6636c49dd5dd85a09320d7b457f89c5) | 
 [Twitter](https://twitter.com/mindrash) | 
 [Discord](https://discord.gg/B8F2R3qd) | 
@@ -36,8 +36,8 @@ There are a total of 3,000 pieces in the series, but will be distributed across 
 - Ethereum, Tezos, Polygon, Fantom
 - IPFS - hashed image on meta
 
-ETH Contract: 0x9c285E47c61B625952EF1F492160CefE12D69ffc<br/>
-Polygon Contract: 0x501637fa5Ea4c19086425De328F45309a973D669<br/>
+ETH Contract: 0x5C3071CA988d75363A9CD800Bef9CBd2CeA005f4<br/>
+Polygon Contract: 0x041C3Ffed16970ffbAD868e409d106576CDAE905<br/>
 Fantom Contract: 0x16d2e7daf6636c49dd5dd85a09320d7b457f89c5<br/>
 Tezos Contract: 0x16d2e7daf6636c49dd5dd85a09320d7b457f89c5<br/>
 
