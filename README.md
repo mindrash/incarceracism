@@ -1,8 +1,9 @@
 ![incarceracism](./docs/1440x400.png)
 
 # Incarceracism
-Incarceracism is a data influenced view of the 70% racial minorities incarceration percentage based on the [Prisoners in 2020 - Statistical Tables NCJ 302776](https://bjs.ojp.gov/library/publications/prisoners-2020-statistical-tables) report provided by the Bureau of Justice Statistics. More information is provided at https://incarceracism.com.
+Incarceracism is a data influenced view of the 70% racial minorities incarceration percentage based on the [Prisoners in 2020 - Statistical Tables NCJ 302776](https://bjs.ojp.gov/library/publications/prisoners-2020-statistical-tables) report provided by the Bureau of Justice Statistics.
 
+NFT art details:<br/>
 6,763 x 6,763 pixels PNG ERC-721 NFT [CC0 license](https://creativecommons.org/share-your-work/public-domain/cc0/)
 
 ## Description
