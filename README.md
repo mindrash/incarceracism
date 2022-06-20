@@ -21,7 +21,7 @@ In my life I have learned that words may not be as impactful as data. In this si
 
 There are a total of 3,000 pieces in the series, but will be distributed across multiple chains to spread the idea as far and wide as possible. Most of the series will be free mint except to provide a few examples to demonstrate. On Polygon 1,000 of them will be minted to demonstrate the series and to be held by the creator for yet to be determined future allocation. See below for how they are distributed.
 
-| chain | series     | amount                                          |
+| chain | series     | amount                            |
 |-------|------------|-----------------------------------|
 | Ethereum (ETH) | #1 - 100 | 100 - 3 minted, 97 free mint |
 | Tezos (XTZ) | #101 - 200 | 100 minted |
@@ -31,7 +31,7 @@ There are a total of 3,000 pieces in the series, but will be distributed across 
 ## Examples
 ![incarceracism](./docs/examples.png)
 
-Incareracism #1
+Incareracism #1<br/>
 ![incarceracism](./docs/1.png)
 
 ## Technologies
@@ -90,6 +90,7 @@ root - INFO - Finished: 2022-06-19 08:56:49.223790
 
 ## Data
 ## Prisoners in 2020 – Statistical Tables
+
 NCJ Number 302776<br/>
 Author(s): E. Ann Carson, Ph.D., BJS Statistician<br/>
 Date Published: December 2021<br/>
