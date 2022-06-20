@@ -1,4 +1,5 @@
 ![incarceracism](./docs/1440x400.png)
+
 [Etherscan](https://etherscan.com/address/0x5C3071CA988d75363A9CD800Bef9CBd2CeA005f4) | 
 [Polyscan](https://polygonscan.com/address/0x041C3Ffed16970ffbAD868e409d106576CDAE905) | 
 [Fantomscan](https://ftmscan.com/address/) | 
@@ -110,4 +111,3 @@ This report is the 95th in a series that began in 1926. It describes demographic
 [metadevil.io](https://metadevil.io) | 
 [pebkac.fyi](https://pebkac.fyi) | 
 [itsmookie.com](https://itsmookie.com)
-
