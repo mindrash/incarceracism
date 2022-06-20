@@ -2,6 +2,7 @@
 
 [Etherscan](https://etherscan.com/address/0x5C3071CA988d75363A9CD800Bef9CBd2CeA005f4) | 
 [Polyscan](https://polygonscan.com/address/0x041C3Ffed16970ffbAD868e409d106576CDAE905) | 
+[tzkt](https://tzkt.io/KT1JrjQM1Meh8miZ4QcwEpWg7BMZ4mFXiu1C/operations/) | 
 [Fantomscan](https://ftmscan.com/address/) | 
 [Twitter](https://twitter.com/mindrash) | 
 [Discord](https://discord.gg/B8F2R3qd) | 
@@ -42,7 +43,7 @@ Incareracism #1
 ETH Contract: 0x5C3071CA988d75363A9CD800Bef9CBd2CeA005f4<br/>
 Polygon Contract: 0x041C3Ffed16970ffbAD868e409d106576CDAE905<br/>
 Fantom Contract: <br/>
-Tezos Contract: br/>
+Tezos Contract: KT1JrjQM1Meh8miZ4QcwEpWg7BMZ4mFXiu1C<br/>
 
 The art is deceptively simple or I guess I should just say - this art took a long time to process. The handcuff placement is the most expensive part of the process for each piece. The program wants to find a good available location to put the handcuff so that it looks correct. That process can take some time and it will eventually give up after 1,000 tries.
 
@@ -105,6 +106,7 @@ This report is the 95th in a series that began in 1926. It describes demographic
 
 [Etherscan](https://etherscan.com/address/0x5C3071CA988d75363A9CD800Bef9CBd2CeA005f4) | 
 [Polyscan](https://polygonscan.com/address/0x041C3Ffed16970ffbAD868e409d106576CDAE905) | 
+[tzkt](https://tzkt.io/KT1JrjQM1Meh8miZ4QcwEpWg7BMZ4mFXiu1C/operations/) | 
 [Fantomscan](https://ftmscan.com/address/) | 
 [Twitter](https://twitter.com/mindrash) | 
 [Discord](https://discord.gg/B8F2R3qd) | 
