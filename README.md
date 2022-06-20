@@ -98,7 +98,7 @@ Publication: Series Prisoners<br/>
 
 ### Description
 
-This report is the 95th in a series that began in 1926. It describes demographic and offense characteristics of state and federal prisoners. It also provides data on prisoners held under military jurisdiction. Findings are based on data from BJS’s National Prisoner Statistics program.
+"This report is the 95th in a series that began in 1926. It describes demographic and offense characteristics of state and federal prisoners. It also provides data on prisoners held under military jurisdiction. Findings are based on data from BJS’s National Prisoner Statistics program."
 <br/><br/>
 [https://bjs.ojp.gov/library/publications/prisoners-2020-statistical-tables](https://bjs.ojp.gov/library/publications/prisoners-2020-statistical-tables)
 <br/><br/>
