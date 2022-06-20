@@ -31,7 +31,7 @@ There are a total of 3,000 pieces in the series, but will be distributed across 
 ## Examples
 ![incarceracism](./docs/examples.png)
 
-Incareracism #1<br/>
+Incarceracism #1<br/>
 ![incarceracism](./docs/1.png)
 
 ## Technologies
