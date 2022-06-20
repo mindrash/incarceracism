@@ -45,7 +45,7 @@ Polygon Contract: 0x041C3Ffed16970ffbAD868e409d106576CDAE905<br/>
 Fantom Contract: TBD<br/>
 Tezos Contract: KT1JrjQM1Meh8miZ4QcwEpWg7BMZ4mFXiu1C<br/>
 
-The art is deceptively simple or I guess I should just say - this art took a long time to process. The handcuff placement is the most expensive part of the process for each piece. The program wants to find a good available location to put the handcuff so that it looks correct. That process can take some time and it will eventually give up after 1,000 tries.
+The art is deceptively simple, but took a long time to process. The handcuff placement is the most expensive part of the program for each piece. The code wants to find a good available location to put the handcuff so that it looks correct. That process can take some time and it will eventually give up after 1,000 tries.
 
 The process took almost <strong>12.5 hours to create 3,000 pieces</strong>. Below is a log snippet:
 ```
