@@ -88,8 +88,8 @@ root - INFO - Finished: 2022-06-19 08:56:49.223790
 | bar color               | 98% black 2% orange |
 | rotated                 | 33% rotated 180 degrees |
 
-## Data
-## Prisoners in 2020 – Statistical Tables
+## Data Summary
+### Prisoners in 2020 – Statistical Tables
 
 NCJ Number 302776<br/>
 Author(s): E. Ann Carson, Ph.D., BJS Statistician<br/>
