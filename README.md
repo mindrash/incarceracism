@@ -24,9 +24,9 @@ There are a total of 3,000 pieces in the series, but will be distributed across 
 | chain | series     | amount                            |
 |-------|------------|-----------------------------------|
 | Ethereum (ETH) | #1 - 100 | 100 - 3 minted, 97 free mint |
-| Tezos (XTZ) | #101 - 200 | 100 minted |
+| Tezos (XTZ) | #101 - 200 | 100 minting |
 | Polygon (MATIC) | #201 - 2,900 | 1000 allocated to creator, 1700 free mint |
-| Fantom (FTM) | #2,901 - 3,000 | 100 - 3 minted, 97 free mint |
+| Fantom (FTM) | #2,901 - 3,000 | 100 - 3 to be minted, 97 free mint |
 
 ## Examples
 ![incarceracism](./docs/examples.png)
