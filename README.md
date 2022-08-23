@@ -14,7 +14,9 @@
 Incarceracism is a data influenced view of the 70% racial minorities incarceration percentage based on the [Prisoners in 2020 - Statistical Tables NCJ 302776](https://bjs.ojp.gov/library/publications/prisoners-2020-statistical-tables) report provided by the Bureau of Justice Statistics.
 
 NFT art details:<br/>
-6,763 x 6,763 pixels PNG ERC-721 NFT [CC0 license](https://creativecommons.org/share-your-work/public-domain/cc0/)
+6,763 x 6,763 pixels PNG ERC-721 NFT [CC0 license](https://creativecommons.org/share-your-work/public-domain/cc0/)<br/>
+<br/>
+([Free mint on Etherscan](https://etherscan.io/address/0x5c3071ca988d75363a9cd800bef9cbd2cea005f4#writeContract#F4))
 
 ## Description
 In my life I have learned that words may not be as impactful as data points. In this situation I don't feel I have many more words I could add to frame the thoughts and discussions that this data should call forth and draw out. I can provide a vehicle for the data to be looked at in another way. That is what I am hoping the Incarceracism art and NFT lends to facilitate change. The colors of the art are directly influenced in the programming logic that produces them to be at least 70% racially symbolic. I hope someone can appreciate them in a way that one may be displayed and cause someone to pause, think, and change.
