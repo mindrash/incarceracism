@@ -25,7 +25,7 @@ There are a total of 3,000 pieces in the series, but will be distributed across 
 |-------|-----------------------------------|------------|
 | Ethereum (ETH) | 100 - 3 minted, 97 free mint | [Incarceracism #1 - 100](https://opensea.io/collection/incarceracism-1-100) |
 | Tezos (XTZ) | 100 minting | [Incarceracism #101 - 200](https://objkt.com/collection/KT1JrjQM1Meh8miZ4QcwEpWg7BMZ4mFXiu1C) | 
-| Polygon (MATIC) | 1000 allocated to creator, 1700 free mint | [Incarceracism #201 - 2900](https://opensea.io/collection/incarceracism-201-2900) |
+| Polygon (MATIC) | 1000 allocated to creator, 1700 ([free mint](https://etherscan.io/address/0x5c3071ca988d75363a9cd800bef9cbd2cea005f4#writeContract#F4)) | [Incarceracism #201 - 2900](https://opensea.io/collection/incarceracism-201-2900) |
 | Fantom (FTM) | 100 - 3 to be minted, 97 free mint | TBD |
 
 ## Examples
@@ -40,7 +40,7 @@ Incarceracism #1<br/>
 - Ethereum, Tezos, Polygon, Fantom
 - IPFS - hashed image on meta
 
-ETH Contract: 0x5C3071CA988d75363A9CD800Bef9CBd2CeA005f4<br/>
+ETH Contract: 0x5C3071CA988d75363A9CD800Bef9CBd2CeA005f4 ([free mint](https://etherscan.io/address/0x5c3071ca988d75363a9cd800bef9cbd2cea005f4#writeContract#F4))<br/>
 Polygon Contract: 0x041C3Ffed16970ffbAD868e409d106576CDAE905<br/>
 Fantom Contract: TBD<br/>
 Tezos Contract: KT1JrjQM1Meh8miZ4QcwEpWg7BMZ4mFXiu1C<br/>
