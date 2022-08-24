@@ -26,7 +26,7 @@ There are a total of 3,000 pieces in the series, but will be distributed across 
 | chain | amount                            | collection |
 |-------|-----------------------------------|------------|
 | Ethereum (ETH) | 100 - 3 minted, 97 free mint | [Incarceracism #1 - 100](https://opensea.io/collection/incarceracism-1-100) |
-| Tezos (XTZ) | 100 minting | [Incarceracism #101 - 200](https://objkt.com/collection/KT1JrjQM1Meh8miZ4QcwEpWg7BMZ4mFXiu1C) | 
+| Tezos (XTZ) | 100 | [Incarceracism #101 - 200](https://objkt.com/collection/KT1JrjQM1Meh8miZ4QcwEpWg7BMZ4mFXiu1C) | 
 | Polygon (MATIC) | 1000 allocated to creator, 1700 ([free mint](https://etherscan.io/address/0x5c3071ca988d75363a9cd800bef9cbd2cea005f4#writeContract#F4)) | [Incarceracism #201 - 2900](https://opensea.io/collection/incarceracism-201-2900) |
 | Fantom (FTM) | 100 - 3 to be minted, 97 free mint | TBD |
 
